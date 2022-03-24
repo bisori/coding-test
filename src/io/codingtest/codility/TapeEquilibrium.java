@@ -21,7 +21,7 @@ public class TapeEquilibrium {
         int min = Integer.MAX_VALUE;
         for (int i = 0 ; i < A.length-1 ; i++) {
             leftPart = leftPart + A[i];
-            rightPart = rightPart - + A[i];
+            rightPart = rightPart - A[i];
             min = Math.min(min, Math.abs(leftPart - rightPart));
         }
 
