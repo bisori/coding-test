@@ -1,4 +1,4 @@
-package io.codingtest.codility;
+package io.codingtest.codility.lesson5;
 
 public class PassingCars {
 

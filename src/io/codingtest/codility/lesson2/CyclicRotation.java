@@ -1,4 +1,4 @@
-package io.codingtest.codility;
+package io.codingtest.codility.lesson2;
 
 import static io.codingtest.TestUtil.*;
 

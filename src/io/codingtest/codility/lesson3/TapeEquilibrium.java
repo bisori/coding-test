@@ -1,4 +1,4 @@
-package io.codingtest.codility;
+package io.codingtest.codility.lesson3;
 
 /**
  * https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/

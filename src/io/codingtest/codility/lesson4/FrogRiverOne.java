@@ -1,4 +1,4 @@
-package io.codingtest.codility;
+package io.codingtest.codility.lesson4;
 
 import java.util.*;
 
