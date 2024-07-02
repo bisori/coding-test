@@ -47,7 +47,7 @@ public class 오픈채팅방 {
           .flatMap(userRecord -> userRecord.getSortableMessages().stream())
           .sorted()
           .map(sortableMessage -> sortableMessage.message)
-          .collect(Collectors.toList());
+          .toList();
 
         String[] result = new String[messages.size()];
         return messages.toArray(result);
